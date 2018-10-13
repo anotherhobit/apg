@@ -1,0 +1,3 @@
+C:/Users/Kuba/Desktop/APG/testapp/build/CMakeFiles/testapp.dir
+C:/Users/Kuba/Desktop/APG/testapp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kuba/Desktop/APG/testapp/build/CMakeFiles/ZERO_CHECK.dir
